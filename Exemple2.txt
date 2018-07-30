@@ -1,0 +1,3 @@
+DEUXIEME FICHIERS EXEMPLE
+
+INSET : affiche une bordure qui fait apparaître l'élément incorporé.
